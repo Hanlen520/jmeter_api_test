@@ -1,4 +1,4 @@
-* 框架简介：jiatui_api_test ，基于jmeter+ant+python封装的接口自动化测试框架
+* 框架简介：jmeter_api_test ，基于jmeter+ant+python封装的接口自动化测试框架
 
 * 注意事项：暂时只在linux环境下调试运行成功
 
